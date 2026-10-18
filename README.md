@@ -6,15 +6,15 @@ A three page Power BI dashboard that shows why customers leave Nigerian telecom 
 
 **Page 1: Executive Overview**
 
-![Executive Overview](images/page1_executive_overview.png)
+![Executive Overview](page1_executive_overview.png)
 
 **Page 2: Churn Drivers**
 
-![Churn Drivers](images/page2_churn_drivers.png)
+![Churn Drivers](page2_churn_drivers.png)
 
 **Page 3: Customer Segments**
 
-![Customer Segments](images/page3_customer_segments.png)
+![Customer Segments](page3_customer_segments.png)
 
 ## Table of Contents
 
